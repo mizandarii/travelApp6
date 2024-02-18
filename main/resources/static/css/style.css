@@ -1,0 +1,18 @@
+/* styles.css */
+
+body {
+    background-color: red;
+    color: #343a40;
+}
+
+.container {
+    margin-top: 500px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
